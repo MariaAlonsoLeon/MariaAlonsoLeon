@@ -56,7 +56,7 @@ A statistical analysis of temperature anomaly trends in the **Canary Islands** i
 
 📌 **Accepted at the XIV Congreso de la Asociación Española de Climatología (AEC 2026)**
 
-🔗 **Repository:** [AnomaliaTemperatura](https://github.com/YOUR_USERNAME/AnomaliaTemperatura)
+🔗 **Repository:** [AnomaliaTemperatura](https://github.com/MariaAlonsoLeon/TemperatureAnomaly)
 
 ---
 
