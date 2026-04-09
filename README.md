@@ -6,14 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+ <a href="https://www.linkedin.com/in/maria-alonso-leon/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+  <a href="mailto:maria.alonleon6@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="YOUR_CV_LINK">
-    <img src="https://img.shields.io/badge/CV-View-success?style=for-the-badge&logo=readthedocs" alt="CV">
   </a>
 </p>
 
@@ -106,9 +103,6 @@ I am particularly interested in:
   <a href="mailto:maria.alonleon6@gmail.com">
     <img src="https://img.shields.io/badge/Email-maria.alonleon6@gmail.com-informational?style=flat-square&logo=gmail" alt="Email">
   </a>
-  <!--<a href="YOUR_CV_LINK">
-    <img src="https://img.shields.io/badge/CV-Download-success?style=flat-square&logo=readthedocs" alt="CV">
-  </a>-->
 </p>
 
 ---
