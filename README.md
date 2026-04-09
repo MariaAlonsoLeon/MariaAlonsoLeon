@@ -97,9 +97,9 @@ I am particularly interested in:
 ## Connect with me
 
 <p align="left">
-  <!--<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/maria-alonso-leon/">
     <img src="https://img.shields.io/badge/LinkedIn-Mar%C3%ADa%20Alonso%20Le%C3%B3n-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>-->
+  </a>
   <a href="mailto:maria.alonleon6@gmail.com">
     <img src="https://img.shields.io/badge/Email-maria.alonleon6@gmail.com-informational?style=flat-square&logo=gmail" alt="Email">
   </a>
